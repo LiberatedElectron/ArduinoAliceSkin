@@ -1,4 +1,7 @@
 Author:     Peter Walker-Birch
 Date:       31 December 2024
+Username:   LiberatedElectron
 
 This is a test file to explore using GIT and GITHUB
+
+Adding some text to see version control in action
