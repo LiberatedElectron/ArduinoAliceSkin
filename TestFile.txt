@@ -1,0 +1,4 @@
+Author:     Peter Walker-Birch
+Date:       31 December 2024
+
+This is a test file to explore using GIT and GITHUB
