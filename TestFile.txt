@@ -5,3 +5,4 @@ Username:   LiberatedElectron
 This is a test file to explore using GIT and GITHUB
 
 Adding some text to see version control in action
+Adding even more text to see version control in action
