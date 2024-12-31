@@ -10,6 +10,6 @@ Adding even more text to see version control in action
 
 Adding text to file from a branch called "cathode"
 
+Adding text to file from a brnach called "anode"
+
 Adding more text called "liberated electron"
-
-
